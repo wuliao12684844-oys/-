@@ -6,10 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>三角洲行动 - 枪械综合评分</title>
     <style>
-        :root {
-            --bg-color: #080c10; --panel-bg: #0e141b; --panel-bg-sub: #131b24;
-            --border-color: #1e2936; --text-color: #f1f5f9; --text-muted: #94a3b8;
-            --accent-orange: #ff5a00; --accent-blue: #3b82f6; --accent-green: #10b981;
+        :root {--bg-color: #080c10; --panel-bg: #0e141b; --panel-bg-sub: #131b24;
+               --border-color: #1e2936; --text-color: #f1f5f9; --text-muted: #94a3b8;
+               --accent-orange: #ff5a00; --accent-blue: #3b82f6; --accent-green: #10b981;
         }
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: sans-serif; }
         body { background-color: var(--bg-color); color: var(--text-color); padding: 20px 10px; }
